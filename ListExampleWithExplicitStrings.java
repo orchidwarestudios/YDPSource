@@ -5,12 +5,14 @@ class ListExampleWithExplicitStrings
 {
 	public static void main(String args[])
 	{
-		LinkedList<String> list = new LinkedList<String>();
-		list.add(new String("One"));
-		list.add(new String("Two"));
-		list.add(new String("Three"));
+		LinkedList<String> items = 
+			new LinkedList<String>();
 
-		for (String s : list)
-			System.out.println(s);
+		items.add(new String("Rock"));
+		items.add(new String("Paper"));
+		items.add(new String("Scissors"));
+
+		System.out.println(items.getFirst());
+		System.out.println(items.getLast());
 	}
 }
