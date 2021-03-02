@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*;
+import java.util.LinkedList;
 
 class ListExampleWithImplicitStrings
 {
@@ -12,7 +12,7 @@ class ListExampleWithImplicitStrings
 		items.add("Paper");
 		items.add("Scissors");
 
-		System.out.println(items.getFirst());
-		System.out.println(items.getLast());
+		for (String s : items)
+			System.out.println(s);
 	}
 }
