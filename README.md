@@ -9,8 +9,8 @@ To run the java code, follow these steps:
     <li>Download and install the Java SDK from Oracle</li>
     <li>Download the Java code file to your local machine</li>
     <li>Using your command line environment, navigate to the directory containing the .java file</li>
-    <li>Compile the code using the command "javac <name_of_file>.java"</li>
-    <li>Run the code using the command "java <name_of_file>"
+    <li>Compile the code using the command "javac NAME_OF_FILE.java"</li>
+    <li>Run the code using the command "java NAME_OF_FILE"
 </ol>
 
 <br>
