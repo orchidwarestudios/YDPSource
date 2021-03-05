@@ -29,8 +29,10 @@ class RandomExample
 		// number in the range of 0.0 to 1.0.
 		double random = Math.random();
 		
-		// Normalize the random double to a number
-		// within 1 to 10.
+		// Normalize the random double to an integer
+		// within the range 1 to 10.
+		// This will produce a number from 0 to 9.
+		// Add 1 to produce numbers from 1 to 10.
 		int normalized = (int)(random * 10.0) + 1;
 
 		System.out.println(
