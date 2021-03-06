@@ -26,6 +26,8 @@ public class HashtableExample
 {
 	public static void main(String args[])
 	{
+		// The first String represents the key.
+		// The second String represents the value.
 		Hashtable<String, String> products = 
 			new Hashtable<String, String>();
 
@@ -33,6 +35,6 @@ public class HashtableExample
 		products.put("idB", "Kiwi");
 		products.put("idC", "Dragon Fruit");
 
-		System.out.println(products.get("idB"));
+		System.out.println(products.get("idB")); // Returns "Kiwi"
 	}
 }

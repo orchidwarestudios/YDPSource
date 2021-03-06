@@ -29,6 +29,8 @@ class ListExampleWithExplicitStrings
 		LinkedList<String> items = 
 			new LinkedList<String>();
 
+		// "new" creates Strings located 
+		// in the heap.
 		items.add(new String("Rock"));
 		items.add(new String("Paper"));
 		items.add(new String("Scissors"));

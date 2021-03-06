@@ -29,6 +29,8 @@ class ListExampleWithImplicitStrings
 		LinkedList<String> items = 
 			new LinkedList<String>();
 
+		// These Strings are located in
+		// 	String pool
 		items.add("Rock");
 		items.add("Paper");
 		items.add("Scissors");

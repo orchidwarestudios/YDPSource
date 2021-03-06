@@ -25,8 +25,10 @@ class DivisionExample
 {
 	public static void main(String args[])
 	{
-		int divResult = 17 / 5;
-		int modResult = 17 % 5;
+		int divResult = 17 / 5;	// = 3
+
+		// Calculates the remainder
+		int modResult = 17 % 5; // = 2
 
 		System.out.println("Div result = " + divResult);
 		System.out.println("Mod result = " + modResult);

@@ -39,6 +39,7 @@ class Range {
         this.max = max;
     }
 
+    // Accessors
     public int getMin() { return min; }
 
     public int getMax() { return max; }
