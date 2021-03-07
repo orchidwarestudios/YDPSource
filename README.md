@@ -7,10 +7,10 @@ Source code from episodes of Your Daily Petal as seen on our <a href="https://ww
 To run the java code, follow these steps:
 <ol>
     <li>Download and install the <a href="https://www.oracle.com/java/technologies/javase-downloads.html">Java Development Kit(JDK)</a></li>
-    <li>Clone your selected codes files from this repository to your local machine</li>
+    <li>Clone your selected code files from this repository to your local machine</li>
     <li>Using your computer's command line environment, navigate to the directory containing the .java file</li>
-    <li>Compile the code using the command "javac NAME_OF_FILE.java"</li>
-    <li>Run the code using the command "java NAME_OF_FILE"
+    <li>Compile the code using the command <b><i>javac NAME_OF_FILE.java</b></i></li>
+    <li>Run the code using the command <b><i>java NAME_OF_FILE</b></i></li>
 </ol>
 
 <br>
