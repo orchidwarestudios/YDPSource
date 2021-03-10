@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="300" title="Learn Computer Science and Software Engineering through Video Games">
+  <img src="header.png" width="500" title="Learn Computer Science and Software Engineering through Video Games">
 </p>
 
 <h1>Your Daily Petal source code</h1>
