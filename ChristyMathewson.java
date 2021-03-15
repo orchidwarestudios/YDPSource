@@ -26,19 +26,19 @@ SOFTWARE.
 
 import java.io.*;
 
-public class BobGibson extends Pitcher 
+public class ChristyMathewson extends Pitcher 
 {
     public static void main(String args[]) 
     {
-        Pitcher p = new BobGibson();
+        Pitcher p = new ChristyMathewson ();
 
 	p.pitch();
     }
 
-    protected void windup() { System.out.println("Bob's Windup"); }
-    protected void stride() { System.out.println("Bob's Stride"); }
-    protected void phase3() { System.out.println("Bob's Phase 3"); }
-    protected void armAcceleration() { System.out.println("Bob's Arm Acceleration"); }
-    protected void armDeceleration() { System.out.println("Bob's Arm Deceleration"); }
-    protected void followThrough() { System.out.println("Bob's Follow Through"); }
+    protected void windup() { System.out.println("Christy's Windup"); }
+    protected void stride() { System.out.println("Christy's Stride"); }
+    protected void phase3() { System.out.println("Christy's Phase 3"); }
+    protected void armAcceleration() { System.out.println("Christy's Arm Acceleration"); }
+    protected void armDeceleration() { System.out.println("Christy's Arm Deceleration"); }
+    protected void followThrough() { System.out.println("Christy's Follow Through"); }
 }
