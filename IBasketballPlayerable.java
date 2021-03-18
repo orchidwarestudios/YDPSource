@@ -24,6 +24,7 @@ SOFTWARE.
  For more information, visit us at http://orchidwarestudios.com 
 *****************************************************************************/
 
+// This cannot be run, by itself. Must wait till Part 5: Interfaces.
 public interface IBasketballPlayerable
 {
     public void dribble();
