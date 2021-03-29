@@ -1,4 +1,5 @@
 /*****************************************************************************
+The MIT License (MIT)
 Copyright (c) 2021 Orchidware Studios LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

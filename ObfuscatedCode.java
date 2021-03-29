@@ -1,4 +1,5 @@
 /*****************************************************************************
+The MIT License (MIT)
 Copyright (c) 2021 Orchidware Studios LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -27,7 +28,7 @@ SOFTWARE.
 import java.io.*;
 import java.util.LinkedList;
 
-// Part 1: Readability
+// From Part 1: Self-Documentation
 public class ObfuscatedCode
 {
     public static void main(String args[])
