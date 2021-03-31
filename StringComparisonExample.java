@@ -39,8 +39,6 @@ public class StringComparisonExample
 		String s3 = "Hello";
 		String s4 = "World";
 
-		String s5 = new String("Hello");
-
 		// Compares memory references
 		System.out.println(s1 == s3);
 		System.out.println(s1.equals(s3));
