@@ -24,10 +24,6 @@ SOFTWARE.
 /*****************************************************************************
  For more information, visit us at http://orchidwarestudios.com 
 *****************************************************************************/
-
-import java.io.*;
-import java.util.LinkedList;
-
 public interface Shape
 {
     public float calculateArea();
